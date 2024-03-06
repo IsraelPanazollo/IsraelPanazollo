@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IsraelPanazollo, i'm an electrical engineer and currently i'm looking for programming jobs
-- 👀 I’m interested in Python, Jupyter and SQL 
-- 🌱 I’m currently learning Python for Data Science
+- 👋 Hi, I’m @IsraelPanazollo, i'm an electrical engineer and currently i'm looking for jobs in data science
+- 👀 I’m interested in Data Science, Python, Jupyter and SQL 
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me? Find me on linkedin 
 
 <!---
