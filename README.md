@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsraelPanazollo, a Bussiness Inteligence Analysist here in Brazil
+- 👋 Hi, I’m @IsraelPanazollo, a Bussiness Inteligence Analyst here in Brazil
 - ⚡ I have a degree in electrical engineering
 - 👀 I’m interested in Data Science, Business Intelligence, Python, SQL and Project Manegement 
 - 🌱 I’m currently learning data engineering 
