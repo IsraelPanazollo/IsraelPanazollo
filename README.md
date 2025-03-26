@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @IsraelPanazollo, i'm an electrical engineer and currently i'm looking for jobs in data science
-- 👀 I’m interested in Data Science, Business Intelligence, Python, Jupyter and SQL 
-- 🌱 I’m currently learning CD4ML
+- 👋 Hi, I’m @IsraelPanazollo, a Bussiness Inteligence Analysist here in Brazil
+- ⚡ I have a degree in electrical engineering
+- 👀 I’m interested in Data Science, Business Intelligence, Python, SQL and Project Manegement 
+- 🌱 I’m currently learning data engineering 
 - :computer: Check on my projects with Data Science below
 - 📫 How to reach me? Find me on Linkedin : https://www.linkedin.com/in/israel-panazollo
 
